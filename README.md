@@ -2,7 +2,7 @@
 
 Analista de Sistemas em Imperatriz-MA. Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em 08/2026) e cursando Ciência da Computação.
 
-Sou proprietário da Ótica Nova Visão desde 2024 e uso IA todos os dias para criar projetos e automatizar rotinas do negócio (ERP, CRM).
+Sou proprietário da Ótica Nova Visão e uso IA todos os dias para criar projetos e automatizar rotinas do negócio (ERP, CRM).
 
 ## Projetos
 - [mini-crm-laravel](https://github.com/ColdAlchemy/mini-crm-laravel): CRM em Laravel com clientes, interações e funil kanban (feito com apoio de IA, com testes).
