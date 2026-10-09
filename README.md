@@ -5,9 +5,9 @@ Analista de Sistemas em Imperatriz-MA. Tecnólogo em Análise e Desenvolvimento 
 Sou proprietário da Ótica Nova Visão e uso IA todos os dias para criar projetos e automatizar rotinas do negócio (ERP, CRM).
 
 ## Projetos
-- [docs-ia-laravel](https://github.com/ColdAlchemy/docs-ia-laravel): Laravel + Vue 3 com IA: extração estruturada, busca semântica (RAG) e agente com tool calling (desenvolvido com Claude Code, com 28 testes).
-- [mini-crm-laravel](https://github.com/ColdAlchemy/mini-crm-laravel): CRM em Laravel com clientes, interações e funil kanban (desenvolvido com Claude Code, com testes).
-- [crud-express](https://github.com/ColdAlchemy/Crud-usando-o-Express): API REST de produtos com Node.js, Express e SQLite, com testes (desenvolvido com Claude Code).
+- [docs-ia-laravel](https://github.com/ColdAlchemy/docs-ia-laravel): Laravel + Vue 3 com IA: extração estruturada, busca semântica (RAG) e agente com tool calling (idealizado por mim e desenvolvido em parceria com Claude Code, com 28 testes).
+- [mini-crm-laravel](https://github.com/ColdAlchemy/mini-crm-laravel): CRM em Laravel com clientes, interações e funil kanban (idealizado por mim e desenvolvido em parceria com Claude Code, com testes).
+- [crud-express](https://github.com/ColdAlchemy/Crud-usando-o-Express): API REST de produtos com Node.js, Express e SQLite, com testes (idealizado por mim e desenvolvido em parceria com Claude Code).
 - [Consultas Médicas](https://github.com/ColdAlchemy/Sistema-de-Gerenciamento-de-Consultas-M-dicas): API REST em Java/Spring Boot + PostgreSQL (2024, feita sem IA). A cópia original está no repositório com sufixo `-original`.
 - [Atividades de JavaScript](https://github.com/ColdAlchemy/Atividade-Desv.Web): exercícios de lógica (sem IA).
 
