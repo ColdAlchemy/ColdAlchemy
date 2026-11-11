@@ -23,7 +23,7 @@ Analista de Sistemas em Imperatriz-MA. Tecnólogo em Análise e Desenvolvimento 
 - [Atividades de JavaScript](https://github.com/ColdAlchemy/Atividade-Desv.Web): exercícios de lógica (sem IA).
 
 ## Como eu trabalho
-Os projetos de portfólio foram desenvolvidos por mim com o auxílio do Claude Code: eu defino o escopo, reviso e estudo o código, e cada projeto traz testes automatizados e um guia de estudo (`docs/ESTUDO.md`). Os READMEs dizem o que **não** foi feito (por exemplo, o que usa dados fictícios ou IA simulada).
+Uso o Claude Code como assistente de programação nos projetos de portfólio: eu defino o escopo, reviso e estudo o código, e cada projeto traz testes e um guia de estudo. A declaração completa, projeto por projeto, está em [USO-DE-IA.md](https://github.com/ColdAlchemy/ColdAlchemy/blob/main/USO-DE-IA.md). Os READMEs dizem o que **não** foi feito (por exemplo, dados fictícios ou IA simulada).
 
 ## Tecnologias
 Python · PHP · Laravel · Vue.js · Node.js · Express · Java · Spring Boot · SQL/PostgreSQL · JavaScript · Linux · RAG · LLMs via API · tool calling · agentes e segurança · MCP · Machine Learning · automação · Git/GitHub
